@@ -68,3 +68,17 @@ button{
     transition: 2s ease-in-out; 
 }
 
+@media screen and (max-width: 847px){
+    .container {
+        width: 200px
+    }
+
+    .img-insta {
+        display: none;
+    }
+
+    .img-celular{
+        display: none;  
+    }
+  	       
+}
